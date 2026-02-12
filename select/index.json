@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hidden",
+  "base_artist": "CROWN HEAD",
+  "createdAt": "2026-02-12T14:56:00.022952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "然后怎样 + Hidden Message",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/01_然后怎样_+_Hidden_Message_陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hidden Worship",
+      "artist": "Eidola",
+      "has_synced": true,
+      "path": "select/02_Hidden_Worship_Eidola.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Antistar - Includes Hidden Track 'LP4'",
+      "artist": "Massive Attack",
+      "has_synced": false,
+      "path": "select/03_Antistar_-_Includes_Hidden_Track_'LP4'_Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hidden Power",
+      "artist": "Machine Girl",
+      "has_synced": true,
+      "path": "select/04_Hidden_Power_Machine_Girl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In The Hidden Places",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/05_In_The_Hidden_Places_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "the Hidden Stone",
+      "artist": "Mount Eerie",
+      "has_synced": true,
+      "path": "select/06_the_Hidden_Stone_Mount_Eerie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Find the Hidden Door",
+      "artist": "The Misunderstood",
+      "has_synced": false,
+      "path": "select/07_Find_the_Hidden_Door_The_Misunderstood.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hidden Treasure",
+      "artist": "Traffic",
+      "has_synced": false,
+      "path": "select/08_Hidden_Treasure_Traffic.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hosanna Filio David (Hidden Track, trad.)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/09_Hosanna_Filio_David_(Hidden_Track,_trad.)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "H. K. Farewell - Hidden Track",
+      "artist": "Placebo",
+      "has_synced": false,
+      "path": "select/10_H._K._Farewell_-_Hidden_Track_Placebo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Water Shows the Hidden Heart",
+      "artist": "Enya",
+      "has_synced": true,
+      "path": "select/11_Water_Shows_the_Hidden_Heart_Enya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand New Set of Rules - Including Hidden Track",
+      "artist": "Mick Jagger",
+      "has_synced": false,
+      "path": "select/12_Brand_New_Set_of_Rules_-_Including_Hidden_Track_Mick_Jagger.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hidden Away Down",
+      "artist": "Johnny Clegg",
+      "has_synced": false,
+      "path": "select/13_Hidden_Away_Down_Johnny_Clegg.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spring Can Really Hang You Up The Most - + Hidden Track \"Interview\"",
+      "artist": "Chaka Khan feat. Stanley Clarke, Chick Corea, Joe Henderson, Freddie Hubbard & Lenny White",
+      "has_synced": false,
+      "path": "select/14_Spring_Can_Really_Hang_You_Up_The_Most_-_+_Hidden_Track__Interview_Chaka_Khan_feat._Stanley_Clarke,_Chick_Corea,_Joe_Henderson,_Freddie_Hubbard_&_L.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spring Can Really Hang You Up The Most (+ Hidden Track \"Interview\")",
+      "artist": "Chaka Khan Stanley Clarke Chick Corea Joe Henderson Freddie Hubbard Lenny White",
+      "has_synced": false,
+      "path": "select/15_Spring_Can_Really_Hang_You_Up_The_Most_(+_Hidden_Track__Interview_)_Chaka_Khan_Stanley_Clarke_Chick_Corea_Joe_Henderson_Freddie_Hubbard_Lenny_White.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hidden",
+      "artist": "Crown Head",
+      "has_synced": false,
+      "path": "select/pl_01_Hidden_Crown_Head.txt"
+    }
+  ]
+}
